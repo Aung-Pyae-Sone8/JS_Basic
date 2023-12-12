@@ -1,3 +1,5 @@
+console.log("!-----Function-----!");
+
 function shopping() {
     console.log("go to shop");
     console.log("buy a product");
@@ -17,3 +19,5 @@ function add(num1,num2) {
 // console.log(add(1,2)); 
 let result = add(1,2);
 console.log(result);
+
+console.log("---------------------------------------------");
