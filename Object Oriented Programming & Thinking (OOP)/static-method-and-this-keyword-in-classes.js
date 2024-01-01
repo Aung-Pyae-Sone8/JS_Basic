@@ -24,3 +24,5 @@ class Calculator2{
 let calculator2 = new Calculator2;
 console.log(calculator2.area(2));
 console.log(calculator2.volume(2,3));
+
+// Cannot use "this" keyword in static method 
