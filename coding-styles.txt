@@ -1,0 +1,13 @@
+// Coding Styles 
+
+// all cap
+HELLO_WORLD
+
+// snake case 
+hello_world
+
+// camel case 
+helloWorld 
+
+// capital case
+HelloWorld
